@@ -1,0 +1,3 @@
+# Program
+
+In Program mode, both exposure time and aperture are automatically selected. While you don’t need to worry about those parameters, you are still allowed to tweak other parameters that might affect the exposure, like the ISO, light metering, exposure compensation, etc. If the exposure compensation is disabled (that is, it is set to 0) you always will get photos “correctly” exposed (that is, according to the camera, not you, that’s the reason of the existence of exposure modes that allow you to override camera’s automatic decisions).

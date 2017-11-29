@@ -1,0 +1,5 @@
+# The viewfinder
+
+The viewfinder is comprised of a live camera sensor view (that updates in real time to all photographic parameter changes) with additional information and composition guides overlaid on top. On the upper part of the viewfinder you can see the actual camera parameters —aperture, exposure time, ISO—, the remaining shots on the current selected media and the buffer status. On the right many indicators are shown. Finally, there are a number of composition guides overlaid on top that can be activated at any time.
+
+Furthermore, you can activate a live histogram, which is a very powerful exposure guide. Unlike most cameras, that display this information at photo review, Camera FV-5 can provide you a live histogram (both full RGB and luminance) that update in real time, giving you a very useful information to judge the photo’s exposure.

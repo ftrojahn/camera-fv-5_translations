@@ -1,0 +1,3 @@
+# RAW photo capture
+
+Beginning with version 2.2, Camera FV-5 while running under compatible Android 5.0 Lollipop devices, can shoot true RAW photos with up to 16-bit per color channel, as well as the usual JPEG. RAW photos are stored in the industry-standard DNG files (Adobe Digital Negative). RAW photographs store exactly the information as it was captured by the sensor, with no processing applied. Therefore, you can extract a lot of detail from the RAW image, and also you can process it to your liking, adjusting exposure from a greater dynamic range source, adjusting white balance, and applying any kind of noise reduction algorithm, just to name a few.

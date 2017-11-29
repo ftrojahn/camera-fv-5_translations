@@ -1,0 +1,5 @@
+# Obtaining support
+
+For any problem related to Camera FV-5, you can contact to the support team via e-mail: support@camerafv5.com. However, **before contacting the aforementioned e-mail address for support, please visit the Frequently Asked Questions (FAQ) here**: http://www.camerafv5.com/faq.php, as it is really likely that your questions is already answered there. _Given the amount of e-mails that arrive our support inbox everyday, we have no other choice but simply skip e-mails that refer topics directly addressed in the FAQ._
+
+If you require help with photographic-related concepts, there are many online resources for general photographic concepts as well as tips, suggestions and techniques. One of our favorites is Cambridge In Colour (http://www.cambridgeincolour.com/). It contains multiple tutorials in many categories that go from basic photographic concepts to advanced techniques, and from the camera to the computer techniques to edit the photographs. It is a very worth read!
